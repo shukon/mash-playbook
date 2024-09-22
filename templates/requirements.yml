@@ -85,7 +85,7 @@
   name: docker_sdk_for_python
   activation_prefix: devture_docker_sdk_for_python_installation_enabled
 - src: git+https://github.com/shukon/ansible-role-dokuwiki.git
-  version: 876a68d215cb7db79db41c07d9223f0ab3a83eb7
+  version: e8ea48b505921cb33ceb8aeeef88c9a33db030ed
   name: dokuwiki
   activation_prefix: dokuwiki_
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-echoip.git
