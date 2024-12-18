@@ -79,6 +79,7 @@
 | [Redis](https://redis.io/) | An in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker. | [Link](services/redis.md) |
 | [Roundcube](https://roundcube.net/) | A browser-based multilingual IMAP client with an application-like user interface | [Link](services/roundcube.md) |
 | [rumqttd](https://github.com/bytebeamio/rumqtt) | A high performance, embeddable [MQTT](https://en.wikipedia.org/wiki/MQTT) broker | [Link](services/rumqttd.md) |
+| [SearXNG](https://github.com/searxng/searxng) | A privacy-respecting, hackable [metasearch engine](https://en.wikipedia.org/wiki/Metasearch_engine) | [Link](services/searxng.md) |
 | [Ansible Semaphore](https://www.ansible-semaphore.com/) | A responsive web UI for running Ansible playbooks  | [Link](services/semaphore.md) |
 | [Soft Serve](https://github.com/charmbracelet/soft-serve) | A tasty, self-hostable [Git](https://git-scm.com/) server for the command line | [Link](services/soft-serve.md) |
 | [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | A self-hosted PDF converter | [Link](services/stirling-pdf.md) |
@@ -87,6 +88,7 @@
 | [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) | An open source server agent to help you collect metrics from your stacks, sensors, and systems. | [Link](services/telegraf.md) |
 | [Traefik](https://doc.traefik.io/traefik/) | A container-aware reverse-proxy server | [Link](services/traefik.md) |
 | [Uptime-kuma](https://uptime.kuma.pet/) | A fancy self-hosted monitoring tool | [Link](services/uptime-kuma.md) |
+| [Valkey](https://valkey.io/) | A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. | [Link](services/valkey.md) |
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | A lightweight unofficial and compatible implementation of the [Bitwarden](https://bitwarden.com/)password manager | [Link](services/vaultwarden.md) |
 | [Versatiles](https://versatiles.org) | A free stack for generating and serving vector tiles from OpenStreetMap. | [Link](services/versatiles.md) |
 | [Wetty](https://github.com/butlerx/wetty) | An SSH terminal over HTTP/HTTPS | [Link](services/wetty.md) |
